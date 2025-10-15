@@ -1,0 +1,1516 @@
+{
+  "metadata": {
+    "version": "4.0.0",
+    "last_updated": "2025-10-15",
+    "total_conditions": 16,
+    "total_verses": 160,
+    "translation": "Sahih International",
+    "verification_source": "https://quran.com"
+  },
+  "conditions": [
+    {
+      "id": "alone",
+      "label": "Alone / Lonely",
+      "description": "Feeling isolated, disconnected, or in need of companionship",
+      "tags": ["presence", "companionship", "closeness", "connection"],
+      "ui_theme": {
+        "primary_color": "#557CBA",
+        "secondary_color": "#A8C7FA",
+        "gradient": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+        "ambient_sound": "soft-waves.mp3"
+      },
+      "verses": [
+        {
+          "ayah_text": "And We have already created man and know what his soul whispers to him, and We are closer to him than his jugular vein.",
+          "surah_name": "Qaf",
+          "surah_number": 50,
+          "ayah_number": 16,
+          "source_url": "https://quran.com/50/16",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "When My servants ask you concerning Me, indeed I am near. I respond to the invocation of the supplicant when he calls upon Me.",
+          "surah_name": "Al-Baqarah",
+          "surah_number": 2,
+          "ayah_number": 186,
+          "source_url": "https://quran.com/2/186",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And He is with you wherever you are. And Allah, of what you do, is Seeing.",
+          "surah_name": "Al-Hadid",
+          "surah_number": 57,
+          "ayah_number": 4,
+          "source_url": "https://quran.com/57/4",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Do not grieve; indeed Allah is with us.",
+          "surah_name": "At-Tawbah",
+          "surah_number": 9,
+          "ayah_number": 40,
+          "source_url": "https://quran.com/9/40",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Indeed, My Lord is with me; He will guide me.",
+          "surah_name": "Ash-Shu'ara",
+          "surah_number": 26,
+          "ayah_number": 62,
+          "source_url": "https://quran.com/26/62",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "So remember Me; I will remember you. And be grateful to Me and do not deny Me.",
+          "surah_name": "Al-Baqarah",
+          "surah_number": 2,
+          "ayah_number": 152,
+          "source_url": "https://quran.com/2/152",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Indeed, Allah is with the patient.",
+          "surah_name": "Al-Baqarah",
+          "surah_number": 2,
+          "ayah_number": 153,
+          "source_url": "https://quran.com/2/153",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And rely upon Allah; and sufficient is Allah as Disposer of affairs.",
+          "surah_name": "Al-Ahzab",
+          "surah_number": 33,
+          "ayah_number": 3,
+          "source_url": "https://quran.com/33/3",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "He will not leave you until He makes evident those who have struggled.",
+          "surah_name": "Muhammad",
+          "surah_number": 47,
+          "ayah_number": 31,
+          "source_url": "https://quran.com/47/31",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Indeed Allah loves those who rely upon Him.",
+          "surah_name": "Aal-Imran",
+          "surah_number": 3,
+          "ayah_number": 159,
+          "source_url": "https://quran.com/3/159",
+          "verified_at": "2025-10-14"
+        }
+      ]
+    },
+    {
+      "id": "depressed",
+      "label": "Depressed / Low / Overwhelmed",
+      "description": "Feeling burdened, sad, or struggling with life's challenges",
+      "tags": ["hardship", "ease", "patience", "relief", "burden"],
+      "ui_theme": {
+        "primary_color": "#6B7280",
+        "secondary_color": "#9CA3AF",
+        "gradient": "linear-gradient(135deg, #434343 0%, #000000 100%)",
+        "ambient_sound": "gentle-rain.mp3"
+      },
+      "verses": [
+        {
+          "ayah_text": "For indeed, with hardship will be ease.",
+          "surah_name": "Ash-Sharh",
+          "surah_number": 94,
+          "ayah_number": 5,
+          "source_url": "https://quran.com/94/5",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Indeed, with hardship will be ease.",
+          "surah_name": "Ash-Sharh",
+          "surah_number": 94,
+          "ayah_number": 6,
+          "source_url": "https://quran.com/94/6",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Allah does not burden a soul beyond that it can bear.",
+          "surah_name": "Al-Baqarah",
+          "surah_number": 2,
+          "ayah_number": 286,
+          "source_url": "https://quran.com/2/286",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "So be patient. Indeed, the promise of Allah is truth.",
+          "surah_name": "Ar-Rum",
+          "surah_number": 30,
+          "ayah_number": 60,
+          "source_url": "https://quran.com/30/60",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient.",
+          "surah_name": "Al-Baqarah",
+          "surah_number": 2,
+          "ayah_number": 155,
+          "source_url": "https://quran.com/2/155",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Say, O My servants who have transgressed against themselves, do not despair of the mercy of Allah. Indeed, Allah forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.",
+          "surah_name": "Az-Zumar",
+          "surah_number": 39,
+          "ayah_number": 53,
+          "source_url": "https://quran.com/39/53",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "So be patient. Indeed, the [best] outcome is for the righteous.",
+          "surah_name": "Hud",
+          "surah_number": 11,
+          "ayah_number": 49,
+          "source_url": "https://quran.com/11/49",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And whoever fears Allah - He will make for him a way out.",
+          "surah_name": "At-Talaq",
+          "surah_number": 65,
+          "ayah_number": 2,
+          "source_url": "https://quran.com/65/2",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Indeed, Allah is with those who fear Him and those who are doers of good.",
+          "surah_name": "An-Nahl",
+          "surah_number": 16,
+          "ayah_number": 128,
+          "source_url": "https://quran.com/16/128",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Indeed, Allah is with those who are patient.",
+          "surah_name": "Al-Anfal",
+          "surah_number": 8,
+          "ayah_number": 46,
+          "source_url": "https://quran.com/8/46",
+          "verified_at": "2025-10-14"
+        }
+      ]
+    },
+    {
+      "id": "grateful",
+      "label": "Grateful / Thankful",
+      "description": "Feeling appreciation, recognizing blessings, wanting to express gratitude",
+      "tags": ["gratitude", "thankfulness", "blessings", "appreciation"],
+      "ui_theme": {
+        "primary_color": "#10B981",
+        "secondary_color": "#6EE7B7",
+        "gradient": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+        "ambient_sound": "birds-chirping.mp3"
+      },
+      "verses": [
+        {
+          "ayah_text": "And [remember] when your Lord proclaimed, 'If you are grateful, I will surely increase you [in favor]; but if you deny, indeed, My punishment is severe.'",
+          "surah_name": "Ibrahim",
+          "surah_number": 14,
+          "ayah_number": 7,
+          "source_url": "https://quran.com/14/7",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And if you should count the favors of Allah, you could not enumerate them. Indeed, Allah is Forgiving and Merciful.",
+          "surah_name": "An-Nahl",
+          "surah_number": 16,
+          "ayah_number": 18,
+          "source_url": "https://quran.com/16/18",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "So remember Me; I will remember you. And be grateful to Me and do not deny Me.",
+          "surah_name": "Al-Baqarah",
+          "surah_number": 2,
+          "ayah_number": 152,
+          "source_url": "https://quran.com/2/152",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Then you will surely be asked that Day about pleasure.",
+          "surah_name": "At-Takathur",
+          "surah_number": 102,
+          "ayah_number": 8,
+          "source_url": "https://quran.com/102/8",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Indeed, Allah is the possessor of bounty for the people, but most of the people are not grateful.",
+          "surah_name": "Al-Baqarah",
+          "surah_number": 2,
+          "ayah_number": 243,
+          "source_url": "https://quran.com/2/243",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Indeed, Allah is full of bounty to the people, but most of them do not give thanks.",
+          "surah_name": "Yunus",
+          "surah_number": 10,
+          "ayah_number": 60,
+          "source_url": "https://quran.com/10/60",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "So which of the favors of your Lord would you deny?",
+          "surah_name": "Ar-Rahman",
+          "surah_number": 55,
+          "ayah_number": 13,
+          "source_url": "https://quran.com/55/13",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And worship Allah and associate nothing with Him, and to parents do good, and to relatives, orphans, the needy, the near neighbor, the neighbor farther away, the companion at your side, the traveler, and those whom your right hands possess. Indeed, Allah does not like those who are self-deluding and boastful. Worship Allah and be among the grateful.",
+          "surah_name": "Az-Zumar",
+          "surah_number": 39,
+          "ayah_number": 66,
+          "source_url": "https://quran.com/39/66",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allah is Free of need and Praiseworthy.",
+          "surah_name": "Luqman",
+          "surah_number": 31,
+          "ayah_number": 12,
+          "source_url": "https://quran.com/31/12",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And Allah will reward the grateful.",
+          "surah_name": "Aal-Imran",
+          "surah_number": 3,
+          "ayah_number": 144,
+          "source_url": "https://quran.com/3/144",
+          "verified_at": "2025-10-14"
+        }
+      ]
+    },
+    {
+      "id": "confused",
+      "label": "Confused / Lost",
+      "description": "Feeling uncertain, unclear about direction, seeking guidance",
+      "tags": ["guidance", "clarity", "direction", "path"],
+      "ui_theme": {
+        "primary_color": "#8B5CF6",
+        "secondary_color": "#C4B5FD",
+        "gradient": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
+        "ambient_sound": "wind-chimes.mp3"
+      },
+      "verses": [
+        {
+          "ayah_text": "And Allah guides whom He wills to a straight path.",
+          "surah_name": "Al-Baqarah",
+          "surah_number": 2,
+          "ayah_number": 213,
+          "source_url": "https://quran.com/2/213",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Indeed, this Quran guides to that which is most suitable and gives good tidings to the believers who do righteous deeds that they will have a great reward.",
+          "surah_name": "Al-Isra",
+          "surah_number": 17,
+          "ayah_number": 9,
+          "source_url": "https://quran.com/17/9",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And He found you lost and guided [you].",
+          "surah_name": "Ad-Duhaa",
+          "surah_number": 93,
+          "ayah_number": 7,
+          "source_url": "https://quran.com/93/7",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And Allah increases those who were guided, in guidance, and the enduring good deeds are better to your Lord for reward and better for recourse.",
+          "surah_name": "Maryam",
+          "surah_number": 19,
+          "ayah_number": 76,
+          "source_url": "https://quran.com/19/76",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And, [moreover], this is My path, which is straight, so follow it; and do not follow [other] ways, for you will be separated from His way. This has He instructed you that you may become righteous.",
+          "surah_name": "Al-An'am",
+          "surah_number": 6,
+          "ayah_number": 153,
+          "source_url": "https://quran.com/6/153",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And those who strive for Us - We will surely guide them to Our ways. And indeed, Allah is with the doers of good.",
+          "surah_name": "Al-Ankabut",
+          "surah_number": 29,
+          "ayah_number": 69,
+          "source_url": "https://quran.com/29/69",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Indeed, Allah does not guide the wrongdoing people.",
+          "surah_name": "Al-Munafiqun",
+          "surah_number": 63,
+          "ayah_number": 6,
+          "source_url": "https://quran.com/63/6",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Your ally is none but Allah and [therefore] His Messenger and those who have believed - those who establish prayer and give zakah, and they bow [in worship].",
+          "surah_name": "Al-Ma'idah",
+          "surah_number": 5,
+          "ayah_number": 55,
+          "source_url": "https://quran.com/5/55",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Indeed, my Lord is on a straight path.",
+          "surah_name": "Hud",
+          "surah_number": 11,
+          "ayah_number": 56,
+          "source_url": "https://quran.com/11/56",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Say, 'Indeed, my guidance is only from Allah, and I have been commanded to be of the Muslims.'",
+          "surah_name": "Al-An'am",
+          "surah_number": 6,
+          "ayah_number": 71,
+          "source_url": "https://quran.com/6/71",
+          "verified_at": "2025-10-14"
+        }
+      ]
+    },
+    {
+      "id": "frustrated",
+      "label": "Frustrated / Angry",
+      "description": "Feeling irritated, upset, or struggling with anger",
+      "tags": ["anger", "patience", "forgiveness", "restraint"],
+      "ui_theme": {
+        "primary_color": "#EF4444",
+        "secondary_color": "#FCA5A5",
+        "gradient": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+        "ambient_sound": "calm-breathing.mp3"
+      },
+      "verses": [
+        {
+          "ayah_text": "Who spend [in the cause of Allah] during ease and hardship and who restrain anger and who pardon the people - and Allah loves the doers of good.",
+          "surah_name": "Aal-Imran",
+          "surah_number": 3,
+          "ayah_number": 134,
+          "source_url": "https://quran.com/3/134",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "So be patient. Indeed, the promise of Allah is truth. And ask forgiveness for your sin and exalt [Allah] with praise of your Lord in the evening and the morning.",
+          "surah_name": "Ar-Rum",
+          "surah_number": 30,
+          "ayah_number": 60,
+          "source_url": "https://quran.com/30/60",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Indeed, Allah loves the patient.",
+          "surah_name": "Aal-Imran",
+          "surah_number": 3,
+          "ayah_number": 146,
+          "source_url": "https://quran.com/3/146",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "So for their breaking of the covenant We cursed them and made their hearts hard. They distort words from their [proper] usages and have forgotten a portion of that of which they were reminded. And you will still observe deceit among them, except a few of them. But pardon them and overlook [their misdeeds]. Indeed, Allah loves the doers of good.",
+          "surah_name": "Al-Ma'idah",
+          "surah_number": 5,
+          "ayah_number": 13,
+          "source_url": "https://quran.com/5/13",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "O you who have believed, be persistently standing firm for Allah, witnesses in justice, and do not let the hatred of a people prevent you from being just. Be just; that is nearer to righteousness. And fear Allah; indeed, Allah is Acquainted with what you do.",
+          "surah_name": "Al-Ma'idah",
+          "surah_number": 5,
+          "ayah_number": 8,
+          "source_url": "https://quran.com/5/8",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And not equal are the good deed and the bad. Repel [evil] by that [deed] which is better; and thereupon the one whom between you and him is enmity [will become] as though he was a devoted friend.",
+          "surah_name": "Fussilat",
+          "surah_number": 41,
+          "ayah_number": 34,
+          "source_url": "https://quran.com/41/34",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "So pardon them and say, 'Peace.' But they are going to know.",
+          "surah_name": "Az-Zukhruf",
+          "surah_number": 43,
+          "ayah_number": 89,
+          "source_url": "https://quran.com/43/89",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And obey Allah and His Messenger, and do not dispute and [thus] lose courage and [then] your strength would depart; and be patient. Indeed, Allah is with the patient.",
+          "surah_name": "Al-Anfal",
+          "surah_number": 8,
+          "ayah_number": 46,
+          "source_url": "https://quran.com/8/46",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And We made from among them leaders guiding by Our command when they were patient and [when] they were certain of Our signs.",
+          "surah_name": "As-Sajdah",
+          "surah_number": 32,
+          "ayah_number": 24,
+          "source_url": "https://quran.com/32/24",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And those who strive for Us - We will surely guide them to Our ways. And indeed, Allah is with the doers of good.",
+          "surah_name": "Al-Ankabut",
+          "surah_number": 29,
+          "ayah_number": 69,
+          "source_url": "https://quran.com/29/69",
+          "verified_at": "2025-10-14"
+        }
+      ]
+    },
+    {
+      "id": "unloved",
+      "label": "Unloved / Worthless",
+      "description": "Feeling unappreciated, unwanted, or lacking self-worth",
+      "tags": ["love", "worth", "value", "acceptance"],
+      "ui_theme": {
+        "primary_color": "#EC4899",
+        "secondary_color": "#F9A8D4",
+        "gradient": "linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%)",
+        "ambient_sound": "heartbeat-calm.mp3"
+      },
+      "verses": [
+        {
+          "ayah_text": "And rely upon Allah; and sufficient is Allah as Disposer of affairs. Indeed Allah loves those who rely upon Him.",
+          "surah_name": "Aal-Imran",
+          "surah_number": 3,
+          "ayah_number": 159,
+          "source_url": "https://quran.com/3/159",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Indeed, Allah loves those who are constantly repentant and loves those who purify themselves.",
+          "surah_name": "Al-Baqarah",
+          "surah_number": 2,
+          "ayah_number": 222,
+          "source_url": "https://quran.com/2/222",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And spend in the way of Allah and do not throw [yourselves] with your [own] hands into destruction [by refraining]. And do good; indeed, Allah loves the doers of good.",
+          "surah_name": "Al-Baqarah",
+          "surah_number": 2,
+          "ayah_number": 195,
+          "source_url": "https://quran.com/2/195",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "How many a prophet [fought and] with him fought many religious scholars. But they never lost assurance due to what afflicted them in the cause of Allah, nor did they weaken or submit. And Allah loves the steadfast. Indeed, Allah loves those who are patient.",
+          "surah_name": "Aal-Imran",
+          "surah_number": 3,
+          "ayah_number": 146,
+          "source_url": "https://quran.com/3/146",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Indeed, Allah loves those who fight in His cause in a row as though they are a [single] structure joined firmly.",
+          "surah_name": "As-Saff",
+          "surah_number": 61,
+          "ayah_number": 4,
+          "source_url": "https://quran.com/61/4",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And rely upon Allah; and sufficient is Allah as Disposer of affairs. Indeed, Allah loves those who put their trust in Him.",
+          "surah_name": "Aal-Imran",
+          "surah_number": 3,
+          "ayah_number": 160,
+          "source_url": "https://quran.com/3/160",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Never stand [for prayer] within it. A mosque founded on righteousness from the first day is more worthy for you to stand in. Within it are men who love to purify themselves; and Allah loves those who purify themselves.",
+          "surah_name": "At-Tawbah",
+          "surah_number": 9,
+          "ayah_number": 108,
+          "source_url": "https://quran.com/9/108",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "So do not weaken and do not grieve, and you will be superior if you are [true] believers.",
+          "surah_name": "Aal-Imran",
+          "surah_number": 3,
+          "ayah_number": 139,
+          "source_url": "https://quran.com/3/139",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Say, [O Muhammad], 'What would my Lord care for you if not for your supplication?' For you [disbelievers] have denied, so your denial is going to be adherent.",
+          "surah_name": "Al-Furqan",
+          "surah_number": 25,
+          "ayah_number": 77,
+          "source_url": "https://quran.com/25/77",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Say, 'O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allah. Indeed, Allah forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.'",
+          "surah_name": "Az-Zumar",
+          "surah_number": 39,
+          "ayah_number": 53,
+          "source_url": "https://quran.com/39/53",
+          "verified_at": "2025-10-14"
+        }
+      ]
+    },
+    {
+      "id": "happy",
+      "label": "Happy / Joyful",
+      "description": "Feeling content, cheerful, celebrating positive moments",
+      "tags": ["joy", "happiness", "celebration", "delight"],
+      "ui_theme": {
+        "primary_color": "#F59E0B",
+        "secondary_color": "#FCD34D",
+        "gradient": "linear-gradient(135deg, #ffeaa7 0%, #fdcb6e 100%)",
+        "ambient_sound": "happy-melody.mp3"
+      },
+      "verses": [
+        {
+          "ayah_text": "Say, 'In the bounty of Allah and in His mercy - in that let them rejoice; it is better than what they accumulate.'",
+          "surah_name": "Yunus",
+          "surah_number": 10,
+          "ayah_number": 58,
+          "source_url": "https://quran.com/10/58",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And He found you lost and guided [you],",
+          "surah_name": "Ad-Duhaa",
+          "surah_number": 93,
+          "ayah_number": 7,
+          "source_url": "https://quran.com/93/7",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And He found you poor and made [you] self-sufficient.",
+          "surah_name": "Ad-Duhaa",
+          "surah_number": 93,
+          "ayah_number": 8,
+          "source_url": "https://quran.com/93/8",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Indeed, the righteous will be in pleasure",
+          "surah_name": "Al-Mutaffifin",
+          "surah_number": 83,
+          "ayah_number": 22,
+          "source_url": "https://quran.com/83/22",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "For those who have done good is the best [reward] and extra. No darkness will cover their faces, nor humiliation. Those are companions of Paradise; they will abide therein eternally.",
+          "surah_name": "Yunus",
+          "surah_number": 10,
+          "ayah_number": 26,
+          "source_url": "https://quran.com/10/26",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Unquestionably, [for] the allies of Allah there will be no fear concerning them, nor will they grieve.",
+          "surah_name": "Yunus",
+          "surah_number": 10,
+          "ayah_number": 62,
+          "source_url": "https://quran.com/10/62",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Indeed, the righteous will be among gardens and rivers,",
+          "surah_name": "Al-Qamar",
+          "surah_number": 54,
+          "ayah_number": 54,
+          "source_url": "https://quran.com/54/54",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Indeed, Allah is the possessor of bounty for the people, but most of the people are not grateful.",
+          "surah_name": "Al-Baqarah",
+          "surah_number": 2,
+          "ayah_number": 243,
+          "source_url": "https://quran.com/2/243",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "For them are good tidings in the worldly life and in the Hereafter. No change is there in the words of Allah. That is what is the great attainment.",
+          "surah_name": "Yunus",
+          "surah_number": 10,
+          "ayah_number": 64,
+          "source_url": "https://quran.com/10/64",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "So which of the favors of your Lord would you deny?",
+          "surah_name": "Ar-Rahman",
+          "surah_number": 55,
+          "ayah_number": 13,
+          "source_url": "https://quran.com/55/13",
+          "verified_at": "2025-10-14"
+        }
+      ]
+    },
+    {
+      "id": "blessed",
+      "label": "Blessed / Content",
+      "description": "Feeling fortunate, at peace, recognizing abundance",
+      "tags": ["contentment", "abundance", "fortune", "peace"],
+      "ui_theme": {
+        "primary_color": "#14B8A6",
+        "secondary_color": "#5EEAD4",
+        "gradient": "linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%)",
+        "ambient_sound": "peaceful-piano.mp3"
+      },
+      "verses": [
+        {
+          "ayah_text": "And He gave you from all you asked of Him. And if you should count the favor of Allah, you could not enumerate them. Indeed, mankind is [generally] most unjust and ungrateful.",
+          "surah_name": "Ibrahim",
+          "surah_number": 14,
+          "ayah_number": 34,
+          "source_url": "https://quran.com/14/34",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And He found you poor and made [you] self-sufficient.",
+          "surah_name": "Ad-Duhaa",
+          "surah_number": 93,
+          "ayah_number": 8,
+          "source_url": "https://quran.com/93/8",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And Allah has extracted you from the wombs of your mothers not knowing a thing, and He made for you hearing and vision and intellects that perhaps you would be grateful.",
+          "surah_name": "An-Nahl",
+          "surah_number": 16,
+          "ayah_number": 78,
+          "source_url": "https://quran.com/16/78",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And Allah has extracted you from the wombs of your mothers not knowing a thing, and He made for you hearing and vision and intellects that perhaps you would be grateful.",
+          "surah_name": "An-Nahl",
+          "surah_number": 16,
+          "ayah_number": 78,
+          "source_url": "https://quran.com/16/78",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "No! Indeed, mankind is ungrateful to his Lord.",
+          "surah_name": "Al-Adiyat",
+          "surah_number": 100,
+          "ayah_number": 6,
+          "source_url": "https://quran.com/100/6",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Indeed, We guided him to the way, be he grateful or be he ungrateful.",
+          "surah_name": "Al-Insan",
+          "surah_number": 76,
+          "ayah_number": 3,
+          "source_url": "https://quran.com/76/3",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "So remember the favors of Allah that you might succeed.",
+          "surah_name": "Al-A'raf",
+          "surah_number": 7,
+          "ayah_number": 69,
+          "source_url": "https://quran.com/7/69",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Did He not find you an orphan and give [you] refuge?",
+          "surah_name": "Ad-Duhaa",
+          "surah_number": 93,
+          "ayah_number": 6,
+          "source_url": "https://quran.com/93/6",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And He has subjected to you whatever is in the heavens and whatever is on the earth - all from Him. Indeed in that are signs for a people who give thought.",
+          "surah_name": "Al-Jathiyah",
+          "surah_number": 45,
+          "ayah_number": 13,
+          "source_url": "https://quran.com/45/13",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And your Lord is the Free of need, the possessor of mercy. If He wills, he can do away with you and give succession after you to whomever He wills, just as He produced you from the descendants of another people. And your Lord is full of bounty for mankind, but most of them do not give thanks.",
+          "surah_name": "An-Naml",
+          "surah_number": 27,
+          "ayah_number": 73,
+          "source_url": "https://quran.com/27/73",
+          "verified_at": "2025-10-14"
+        }
+      ]
+    },
+    {
+      "id": "fearful",
+      "label": "Fearful / Anxious",
+      "description": "Feeling worried, scared, or apprehensive about the future",
+      "tags": ["fear", "anxiety", "worry", "protection"],
+      "ui_theme": {
+        "primary_color": "#3B82F6",
+        "secondary_color": "#93C5FD",
+        "gradient": "linear-gradient(135deg, #89f7fe 0%, #66a6ff 100%)",
+        "ambient_sound": "calm-ocean.mp3"
+      },
+      "verses": [
+        {
+          "ayah_text": "[Allah] said, 'Fear not. Indeed, I am with you both; I hear and I see.",
+          "surah_name": "Taha",
+          "surah_number": 20,
+          "ayah_number": 46,
+          "source_url": "https://quran.com/20/46",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "So do not weaken and do not grieve, and you will be superior if you are [true] believers.",
+          "surah_name": "Aal-Imran",
+          "surah_number": 3,
+          "ayah_number": 139,
+          "source_url": "https://quran.com/3/139",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Indeed, my protector is Allah, who has sent down the Book; and He is an ally to the righteous.",
+          "surah_name": "Al-A'raf",
+          "surah_number": 7,
+          "ayah_number": 196,
+          "source_url": "https://quran.com/7/196",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Do not grieve; indeed Allah is with us.",
+          "surah_name": "At-Tawbah",
+          "surah_number": 9,
+          "ayah_number": 40,
+          "source_url": "https://quran.com/9/40",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "[Moses] said, 'No! Indeed, with me is my Lord; He will guide me.'",
+          "surah_name": "Ash-Shu'ara",
+          "surah_number": 26,
+          "ayah_number": 62,
+          "source_url": "https://quran.com/26/62",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Indeed, Allah is with those who fear Him and those who are doers of good.",
+          "surah_name": "An-Nahl",
+          "surah_number": 16,
+          "ayah_number": 128,
+          "source_url": "https://quran.com/16/128",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Unquestionably, [for] the allies of Allah there will be no fear concerning them, nor will they grieve.",
+          "surah_name": "Yunus",
+          "surah_number": 10,
+          "ayah_number": 62,
+          "source_url": "https://quran.com/10/62",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Indeed, those who have said, 'Our Lord is Allah' and then remained on a right course - the angels will descend upon them, [saying], 'Do not fear and do not grieve but receive good tidings of Paradise, which you were promised.",
+          "surah_name": "Fussilat",
+          "surah_number": 41,
+          "ayah_number": 30,
+          "source_url": "https://quran.com/41/30",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Indeed, those who have believed and those who have emigrated and fought in the cause of Allah - those expect the mercy of Allah. And Allah is Forgiving and Merciful. Those who have believed and feared Allah - for them are good tidings in the worldly life and in the Hereafter.",
+          "surah_name": "Yunus",
+          "surah_number": 10,
+          "ayah_number": 63,
+          "source_url": "https://quran.com/10/63",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Indeed, the patient will be given their reward without account.",
+          "surah_name": "Az-Zumar",
+          "surah_number": 39,
+          "ayah_number": 10,
+          "source_url": "https://quran.com/39/10",
+          "verified_at": "2025-10-14"
+        }
+      ]
+    },
+    {
+      "id": "hopeless",
+      "label": "Hopeless / Useless",
+      "description": "Feeling defeated, without purpose, lacking hope for the future",
+      "tags": ["hope", "despair", "purpose", "mercy"],
+      "ui_theme": {
+        "primary_color": "#6366F1",
+        "secondary_color": "#A5B4FC",
+        "gradient": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
+        "ambient_sound": "sunrise-ambient.mp3"
+      },
+      "verses": [
+        {
+          "ayah_text": "Say, 'O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allah. Indeed, Allah forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.'",
+          "surah_name": "Az-Zumar",
+          "surah_number": 39,
+          "ayah_number": 53,
+          "source_url": "https://quran.com/39/53",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And never give up hope of Allah's soothing Mercy: truly no one despairs of Allah's soothing Mercy, except those who have no faith.",
+          "surah_name": "Yusuf",
+          "surah_number": 12,
+          "ayah_number": 87,
+          "source_url": "https://quran.com/12/87",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Indeed, Allah is with the patient.",
+          "surah_name": "Al-Baqarah",
+          "surah_number": 2,
+          "ayah_number": 153,
+          "source_url": "https://quran.com/2/153",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "For indeed, with hardship will be ease.",
+          "surah_name": "Ash-Sharh",
+          "surah_number": 94,
+          "ayah_number": 5,
+          "source_url": "https://quran.com/94/5",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Indeed, with hardship will be ease.",
+          "surah_name": "Ash-Sharh",
+          "surah_number": 94,
+          "ayah_number": 6,
+          "source_url": "https://quran.com/94/6",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "So be patient. Indeed, the promise of Allah is truth. And ask forgiveness for your sin and exalt [Allah] with praise of your Lord in the evening and the morning.",
+          "surah_name": "Ar-Rum",
+          "surah_number": 30,
+          "ayah_number": 60,
+          "source_url": "https://quran.com/30/60",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And whoever relies upon Allah - then He is sufficient for him. Indeed, Allah will accomplish His purpose. Allah has already set for everything a [decreed] extent.",
+          "surah_name": "At-Talaq",
+          "surah_number": 65,
+          "ayah_number": 3,
+          "source_url": "https://quran.com/65/3",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "Indeed, Allah is with those who fear Him and those who are doers of good.",
+          "surah_name": "An-Nahl",
+          "surah_number": 16,
+          "ayah_number": 128,
+          "source_url": "https://quran.com/16/128",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "And Allah will reward the grateful.",
+          "surah_name": "Aal-Imran",
+          "surah_number": 3,
+          "ayah_number": 144,
+          "source_url": "https://quran.com/3/144",
+          "verified_at": "2025-10-14"
+        },
+        {
+          "ayah_text": "So do not weaken and do not grieve, and you will be superior if you are [true] believers.",
+          "surah_name": "Aal-Imran",
+          "surah_number": 3,
+          "ayah_number": 139,
+          "source_url": "https://quran.com/3/139",
+          "verified_at": "2025-10-14"
+        }
+      ]
+    },
+    {
+      "id": "worried",
+      "label": "Worried / Restless",
+      "description": "Feeling anxious about the future or current situations",
+      "tags": ["anxiety", "worry", "peace", "trust"],
+      "ui_theme": {
+        "primary_color": "#8B5CF6",
+        "secondary_color": "#C4B5FD",
+        "gradient": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
+        "ambient_sound": "calm-breath.mp3"
+      },
+      "verses": [
+        {
+          "ayah_text": "Unquestionably, by the remembrance of Allah hearts are assured.",
+          "surah_name": "Ar-Ra'd",
+          "surah_number": 13,
+          "ayah_number": 28,
+          "source_url": "https://quran.com/13/28",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "And rely upon Allah; and sufficient is Allah as Disposer of affairs.",
+          "surah_name": "Al-Ahzab",
+          "surah_number": 33,
+          "ayah_number": 3,
+          "source_url": "https://quran.com/33/3",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "Those who have believed and whose hearts are assured by the remembrance of Allah.",
+          "surah_name": "Ar-Ra'd",
+          "surah_number": 13,
+          "ayah_number": 28,
+          "source_url": "https://quran.com/13/28",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "And whoever relies upon Allah - then He is sufficient for him.",
+          "surah_name": "At-Talaq",
+          "surah_number": 65,
+          "ayah_number": 3,
+          "source_url": "https://quran.com/65/3",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "So do not weaken and do not grieve, and you will be superior if you are [true] believers.",
+          "surah_name": "Aal-Imran",
+          "surah_number": 3,
+          "ayah_number": 139,
+          "source_url": "https://quran.com/3/139",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "Indeed, Allah is with the patient.",
+          "surah_name": "Al-Baqarah",
+          "surah_number": 2,
+          "ayah_number": 153,
+          "source_url": "https://quran.com/2/153",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "And seek help through patience and prayer, and indeed, it is difficult except for the humbly submissive [to Allah].",
+          "surah_name": "Al-Baqarah",
+          "surah_number": 2,
+          "ayah_number": 45,
+          "source_url": "https://quran.com/2/45",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "Do not grieve; indeed Allah is with us.",
+          "surah_name": "At-Tawbah",
+          "surah_number": 9,
+          "ayah_number": 40,
+          "source_url": "https://quran.com/9/40",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "And He found you lost and guided [you].",
+          "surah_name": "Ad-Duha",
+          "surah_number": 93,
+          "ayah_number": 7,
+          "source_url": "https://quran.com/93/7",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "So be patient. Indeed, the promise of Allah is truth.",
+          "surah_name": "Ar-Rum",
+          "surah_number": 30,
+          "ayah_number": 60,
+          "source_url": "https://quran.com/30/60",
+          "verified_at": "2025-10-15"
+        }
+      ]
+    },
+    {
+      "id": "seeking",
+      "label": "Seeking Guidance",
+      "description": "Looking for direction, wisdom, or clarity in life",
+      "tags": ["guidance", "wisdom", "direction", "clarity"],
+      "ui_theme": {
+        "primary_color": "#F59E0B",
+        "secondary_color": "#FCD34D",
+        "gradient": "linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%)",
+        "ambient_sound": "peaceful-wisdom.mp3"
+      },
+      "verses": [
+        {
+          "ayah_text": "And We send down of the Quran that which is healing and mercy for the believers.",
+          "surah_name": "Al-Isra",
+          "surah_number": 17,
+          "ayah_number": 82,
+          "source_url": "https://quran.com/17/82",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "Indeed, this Quran guides to that which is most suitable.",
+          "surah_name": "Al-Isra",
+          "surah_number": 17,
+          "ayah_number": 9,
+          "source_url": "https://quran.com/17/9",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "And whoever fears Allah - He will make for him a way out. And will provide for him from where he does not expect.",
+          "surah_name": "At-Talaq",
+          "surah_number": 65,
+          "ayah_number": 2,
+          "source_url": "https://quran.com/65/2-3",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "Guide us to the straight path.",
+          "surah_name": "Al-Fatihah",
+          "surah_number": 1,
+          "ayah_number": 6,
+          "source_url": "https://quran.com/1/6",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "And those who strive for Us - We will surely guide them to Our ways. And indeed, Allah is with the doers of good.",
+          "surah_name": "Al-Ankabut",
+          "surah_number": 29,
+          "ayah_number": 69,
+          "source_url": "https://quran.com/29/69",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "Say, 'My Lord, increase me in knowledge.'",
+          "surah_name": "Ta-Ha",
+          "surah_number": 20,
+          "ayah_number": 114,
+          "source_url": "https://quran.com/20/114",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "And whoever is guided is only guided for [the benefit of] his soul.",
+          "surah_name": "An-Naml",
+          "surah_number": 27,
+          "ayah_number": 92,
+          "source_url": "https://quran.com/27/92",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "So ask the people of the message if you do not know.",
+          "surah_name": "An-Nahl",
+          "surah_number": 16,
+          "ayah_number": 43,
+          "source_url": "https://quran.com/16/43",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "And He found you lost and guided [you].",
+          "surah_name": "Ad-Duha",
+          "surah_number": 93,
+          "ayah_number": 7,
+          "source_url": "https://quran.com/93/7",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "Indeed, My Lord is with me; He will guide me.",
+          "surah_name": "Ash-Shu'ara",
+          "surah_number": 26,
+          "ayah_number": 62,
+          "source_url": "https://quran.com/26/62",
+          "verified_at": "2025-10-15"
+        }
+      ]
+    },
+    {
+      "id": "peaceful",
+      "label": "Peaceful / Content",
+      "description": "Feeling inner peace, tranquility, and contentment with life",
+      "tags": ["peace", "tranquility", "contentment", "serenity"],
+      "ui_theme": {
+        "primary_color": "#06B6D4",
+        "secondary_color": "#67E8F9",
+        "gradient": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
+        "ambient_sound": "peaceful-waves.mp3"
+      },
+      "verses": [
+        {
+          "ayah_text": "Those who have believed and whose hearts are assured by the remembrance of Allah. Unquestionably, by the remembrance of Allah hearts are assured.",
+          "surah_name": "Ar-Ra'd",
+          "surah_number": 13,
+          "ayah_number": 28,
+          "source_url": "https://quran.com/13/28",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "Indeed, the righteous will be in pleasure. On thrones, observing.",
+          "surah_name": "Al-Mutaffifin",
+          "surah_number": 83,
+          "ayah_number": 22,
+          "source_url": "https://quran.com/83/22-23",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "So whoever does an atom's weight of good will see it.",
+          "surah_name": "Az-Zalzalah",
+          "surah_number": 99,
+          "ayah_number": 7,
+          "source_url": "https://quran.com/99/7",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "Indeed, the righteous will be in gardens and rivers. In a seat of honor near a Sovereign, Perfect in Ability.",
+          "surah_name": "Al-Qamar",
+          "surah_number": 54,
+          "ayah_number": 54,
+          "source_url": "https://quran.com/54/54-55",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "And you will be in pleasure. For what you used to do.",
+          "surah_name": "At-Tur",
+          "surah_number": 52,
+          "ayah_number": 18,
+          "source_url": "https://quran.com/52/18-19",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "Peace, a word from a Merciful Lord.",
+          "surah_name": "Ya-Sin",
+          "surah_number": 36,
+          "ayah_number": 58,
+          "source_url": "https://quran.com/36/58",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "Their greeting the Day they meet Him will be, 'Peace.' And He has prepared for them a noble reward.",
+          "surah_name": "Al-Ahzab",
+          "surah_number": 33,
+          "ayah_number": 44,
+          "source_url": "https://quran.com/33/44",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "And Allah invites to the Home of Peace and guides whom He wills to a straight path.",
+          "surah_name": "Yunus",
+          "surah_number": 10,
+          "ayah_number": 25,
+          "source_url": "https://quran.com/10/25",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "For them will be the Home of Peace with their Lord. And He will be their protecting friend because of what they used to do.",
+          "surah_name": "Al-An'am",
+          "surah_number": 6,
+          "ayah_number": 127,
+          "source_url": "https://quran.com/6/127",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "So do not weaken and call for peace while you are superior; and Allah is with you and will never deprive you of your deeds.",
+          "surah_name": "Muhammad",
+          "surah_number": 47,
+          "ayah_number": 35,
+          "source_url": "https://quran.com/47/35",
+          "verified_at": "2025-10-15"
+        }
+      ]
+    },
+    {
+      "id": "heartbroken",
+      "label": "Heartbroken / Grieving",
+      "description": "Feeling deep sadness, loss, or emotional pain from separation or grief",
+      "tags": ["heartbreak", "grief", "loss", "sadness", "healing"],
+      "ui_theme": {
+        "primary_color": "#7C3AED",
+        "secondary_color": "#C4B5FD",
+        "gradient": "linear-gradient(135deg, #d299c2 0%, #fef9d7 100%)",
+        "ambient_sound": "gentle-comfort.mp3"
+      },
+      "verses": [
+        {
+          "ayah_text": "Indeed, We belong to Allah, and indeed to Him we will return.",
+          "surah_name": "Al-Baqarah",
+          "surah_number": 2,
+          "ayah_number": 156,
+          "source_url": "https://quran.com/2/156",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "And give good tidings to the patient, who, when disaster strikes them, say, 'Indeed we belong to Allah, and indeed to Him we will return.'",
+          "surah_name": "Al-Baqarah",
+          "surah_number": 2,
+          "ayah_number": 155,
+          "source_url": "https://quran.com/2/155-156",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "So do not weaken and do not grieve, and you will be superior if you are [true] believers.",
+          "surah_name": "Aal-Imran",
+          "surah_number": 3,
+          "ayah_number": 139,
+          "source_url": "https://quran.com/3/139",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient.",
+          "surah_name": "Al-Baqarah",
+          "surah_number": 2,
+          "ayah_number": 155,
+          "source_url": "https://quran.com/2/155",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "No disaster strikes except by permission of Allah. And whoever believes in Allah - He will guide his heart.",
+          "surah_name": "At-Taghabun",
+          "surah_number": 64,
+          "ayah_number": 11,
+          "source_url": "https://quran.com/64/11",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "And seek help through patience and prayer, and indeed, it is difficult except for the humbly submissive [to Allah].",
+          "surah_name": "Al-Baqarah",
+          "surah_number": 2,
+          "ayah_number": 45,
+          "source_url": "https://quran.com/2/45",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "He who created death and life to test you [as to] which of you is best in deed - and He is the Exalted in Might, the Forgiving.",
+          "surah_name": "Al-Mulk",
+          "surah_number": 67,
+          "ayah_number": 2,
+          "source_url": "https://quran.com/67/2",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "And those who, when struck by calamity, say, 'Indeed we belong to Allah, and indeed to Him we will return.' Those are the ones upon whom are blessings from their Lord and mercy.",
+          "surah_name": "Al-Baqarah",
+          "surah_number": 2,
+          "ayah_number": 156,
+          "source_url": "https://quran.com/2/156-157",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "Indeed, with hardship will be ease.",
+          "surah_name": "Ash-Sharh",
+          "surah_number": 94,
+          "ayah_number": 6,
+          "source_url": "https://quran.com/94/6",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "And your Lord is going to give you, and you will be satisfied.",
+          "surah_name": "Ad-Duha",
+          "surah_number": 93,
+          "ayah_number": 5,
+          "source_url": "https://quran.com/93/5",
+          "verified_at": "2025-10-15"
+        }
+      ]
+    },
+    {
+      "id": "anxious",
+      "label": "Anxious / Overwhelmed",
+      "description": "Feeling overwhelmed, stressed, or consumed by worry and anxiety",
+      "tags": ["anxiety", "stress", "overwhelmed", "calm", "trust"],
+      "ui_theme": {
+        "primary_color": "#8B5CF6",
+        "secondary_color": "#C4B5FD",
+        "gradient": "linear-gradient(135deg, #667eea 0%, #764ba2 50%, #8B5CF6 100%)",
+        "ambient_sound": "calm-breath.mp3"
+      },
+      "verses": [
+        {
+          "ayah_text": "So remember Me; I will remember you. And be grateful to Me and do not deny Me.",
+          "surah_name": "Al-Baqarah",
+          "surah_number": 2,
+          "ayah_number": 152,
+          "source_url": "https://quran.com/2/152",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "And whoever relies upon Allah - then He is sufficient for him. Indeed, Allah will accomplish His purpose.",
+          "surah_name": "At-Talaq",
+          "surah_number": 65,
+          "ayah_number": 3,
+          "source_url": "https://quran.com/65/3",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "Allah does not charge a soul except [with that within] its capacity.",
+          "surah_name": "Al-Baqarah",
+          "surah_number": 2,
+          "ayah_number": 286,
+          "source_url": "https://quran.com/2/286",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "And whoever fears Allah - He will make for him a way out. And will provide for him from where he does not expect.",
+          "surah_name": "At-Talaq",
+          "surah_number": 65,
+          "ayah_number": 2,
+          "source_url": "https://quran.com/65/2-3",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "Do not grieve; indeed Allah is with us.",
+          "surah_name": "At-Tawbah",
+          "surah_number": 9,
+          "ayah_number": 40,
+          "source_url": "https://quran.com/9/40",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "And He found you lost and guided [you]. And He found you poor and made [you] self-sufficient.",
+          "surah_name": "Ad-Duha",
+          "surah_number": 93,
+          "ayah_number": 7,
+          "source_url": "https://quran.com/93/7-8",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "Indeed, the help of Allah is near.",
+          "surah_name": "Al-Baqarah",
+          "surah_number": 2,
+          "ayah_number": 214,
+          "source_url": "https://quran.com/2/214",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "So be patient. Indeed, the promise of Allah is truth.",
+          "surah_name": "Ar-Rum",
+          "surah_number": 30,
+          "ayah_number": 60,
+          "source_url": "https://quran.com/30/60",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "And upon Allah rely, if you should be believers.",
+          "surah_name": "Al-Ma'idah",
+          "surah_number": 5,
+          "ayah_number": 23,
+          "source_url": "https://quran.com/5/23",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "Our Lord, do not impose blame upon us if we have forgotten or erred.",
+          "surah_name": "Al-Baqarah",
+          "surah_number": 2,
+          "ayah_number": 286,
+          "source_url": "https://quran.com/2/286",
+          "verified_at": "2025-10-15"
+        }
+      ]
+    },
+    {
+      "id": "repentant",
+      "label": "Repentant / Seeking Forgiveness",
+      "description": "Feeling remorseful and seeking Allah's mercy and forgiveness",
+      "tags": ["repentance", "forgiveness", "mercy", "tawbah", "hope"],
+      "ui_theme": {
+        "primary_color": "#06B6D4",
+        "secondary_color": "#22D3EE",
+        "gradient": "linear-gradient(135deg, #06B6D4 0%, #0EA5E9 50%, #38BDF8 100%)",
+        "ambient_sound": "gentle-rain.mp3"
+      },
+      "verses": [
+        {
+          "ayah_text": "Say, 'O My servants who have transgressed against themselves, do not despair of the mercy of Allah. Indeed, Allah forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.'",
+          "surah_name": "Az-Zumar",
+          "surah_number": 39,
+          "ayah_number": 53,
+          "source_url": "https://quran.com/39/53",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "And whoever does a wrong or wrongs himself but then seeks forgiveness of Allah will find Allah Forgiving and Merciful.",
+          "surah_name": "An-Nisa",
+          "surah_number": 4,
+          "ayah_number": 110,
+          "source_url": "https://quran.com/4/110",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "Indeed, Allah loves those who are constantly repentant and loves those who purify themselves.",
+          "surah_name": "Al-Baqarah",
+          "surah_number": 2,
+          "ayah_number": 222,
+          "source_url": "https://quran.com/2/222",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "And return [in repentance] to your Lord and submit to Him before the punishment comes upon you; then you will not be helped.",
+          "surah_name": "Az-Zumar",
+          "surah_number": 39,
+          "ayah_number": 54,
+          "source_url": "https://quran.com/39/54",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "And He it is who accepts repentance from his servants and pardons misdeeds, and He knows what you do.",
+          "surah_name": "Ash-Shura",
+          "surah_number": 42,
+          "ayah_number": 25,
+          "source_url": "https://quran.com/42/25",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "But indeed, I am the Perpetual Forgiver of whoever repents and believes and does righteousness and then continues in guidance.",
+          "surah_name": "Ta-Ha",
+          "surah_number": 20,
+          "ayah_number": 82,
+          "source_url": "https://quran.com/20/82",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "And seek forgiveness of Allah. Indeed, Allah is Forgiving and Merciful.",
+          "surah_name": "Al-Muzzammil",
+          "surah_number": 73,
+          "ayah_number": 20,
+          "source_url": "https://quran.com/73/20",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "Your Lord knows best what is within yourselves. If you should be righteous - then indeed He is ever, to the often returning [to Him], Forgiving.",
+          "surah_name": "Al-Isra",
+          "surah_number": 17,
+          "ayah_number": 25,
+          "source_url": "https://quran.com/17/25",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "Except for those who repent, believe and do righteous work. For them Allah will replace their evil deeds with good.",
+          "surah_name": "Al-Furqan",
+          "surah_number": 25,
+          "ayah_number": 70,
+          "source_url": "https://quran.com/25/70",
+          "verified_at": "2025-10-15"
+        },
+        {
+          "ayah_text": "And whoever repents after his wrongdoing and reforms, indeed, Allah will turn to him in forgiveness. Indeed, Allah is Forgiving and Merciful.",
+          "surah_name": "Al-Ma'idah",
+          "surah_number": 5,
+          "ayah_number": 39,
+          "source_url": "https://quran.com/5/39",
+          "verified_at": "2025-10-15"
+        }
+      ]
+    }
+  ]
+}
