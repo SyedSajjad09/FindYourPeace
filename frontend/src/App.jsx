@@ -648,7 +648,7 @@ function App() {
             {/* LinkedIn Connection */}
             <div className="footer-section footer-linkedin-section">
               <a 
-                href="https://www.linkedin.com/in/01syedsajjadhussain/" 
+                href="https://www.linkedin.com/in/syedhussain014/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="linkedin-link"
